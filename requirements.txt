@@ -1,0 +1,5 @@
+django== 3.0.8
+djangorestframework == 3.11.0 
+
+#API VIEW - mas control sobre la logica, es bueno para llamar a otros apis 
+#usa metodos HTTP standard - get() - post()
